@@ -7,7 +7,7 @@ the ability to change the title text during teleportation.
 Message formatting supports [adventure minimessages!](https://docs.advntr.dev/minimessage/format.html)
 <br>
 </br>
-📁 Libraries used in plugin:
+📁 **Libraries used in plugin**
 > [Kyori Adventure](https://docs.advntr.dev) <br>
 > [Adventure MiniMessages](https://docs.advntr.dev/minimessage/index.html) <br>
 > [Caffeine](https://github.com/ben-manes/caffeine) <br>
